@@ -1,0 +1,10 @@
+c:\users\geronimo\documents\visual studio 2015\Projects\StarShips\TestCalculations\bin\Debug\TestCalculations.dll
+c:\users\geronimo\documents\visual studio 2015\Projects\StarShips\TestCalculations\bin\Debug\TestCalculations.pdb
+c:\users\geronimo\documents\visual studio 2015\Projects\StarShips\TestCalculations\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\geronimo\documents\visual studio 2015\Projects\StarShips\TestCalculations\bin\Debug\StarShips.exe
+c:\users\geronimo\documents\visual studio 2015\Projects\StarShips\TestCalculations\bin\Debug\Newtonsoft.Json.dll
+c:\users\geronimo\documents\visual studio 2015\Projects\StarShips\TestCalculations\bin\Debug\StarShips.pdb
+c:\users\geronimo\documents\visual studio 2015\Projects\StarShips\TestCalculations\bin\Debug\Newtonsoft.Json.xml
+c:\users\geronimo\documents\visual studio 2015\Projects\StarShips\TestCalculations\obj\Debug\TestCalculations.csprojResolveAssemblyReference.cache
+c:\users\geronimo\documents\visual studio 2015\Projects\StarShips\TestCalculations\obj\Debug\TestCalculations.dll
+c:\users\geronimo\documents\visual studio 2015\Projects\StarShips\TestCalculations\obj\Debug\TestCalculations.pdb
